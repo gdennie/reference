@@ -2,8 +2,8 @@ r[type.fn-item]
 # Function item types
 
 r[type.fn-item.intro]
-When referred to, a function item, or the constructor of a tuple-like struct or
-enum variant, yields a zero-sized value of its _function item type_.
+A function item, constructor of a tuple-like struct, or
+an enum variant that is referred to yields a zero-sized value of its _function item type_.
 
 r[type.fn-item.unique]
 That type explicitly identifies the function - its name, its type arguments, and its
